@@ -23,7 +23,9 @@ p{
 
 /*Flexbox*/
 
-.flex-container{
+.flex-container
+
+{
     display: flex;
     border: 1px solid white;
     border-radius: 20px;
